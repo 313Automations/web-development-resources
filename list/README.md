@@ -506,6 +506,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [SEOTester](https://seotest.me/)                         |
 | [CORS-Tester](https://cors-error.dev/cors-tester/)       |
 | [Foglift](https://foglift.io)                            |
+| [AI Crawler Access Checker](https://313automations.com/free-tools/ai-crawler-access-checker) |
 
 [⬆ back to top](#table-of-contents)
 
